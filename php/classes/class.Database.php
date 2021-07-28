@@ -1,4 +1,4 @@
-<?
+<?php
 // ======================================================
 // Clase: class.Database.php
 // Funcion: Se encarga del manejo con la base de datos
