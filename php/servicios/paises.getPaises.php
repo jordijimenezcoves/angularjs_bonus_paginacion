@@ -7,7 +7,7 @@ $postdata = file_get_contents("php://input");
 $request = json_decode($postdata);
 $request =  (array) $request;
 
-//sleep(1);
+sleep(1);
 
 // Retorna un json
 header('Content-Type: application/json;charset=utf-8');
